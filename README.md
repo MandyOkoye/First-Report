@@ -1,5 +1,5 @@
 # INTRODUCTION
-While on my learning jourmey with https://github.com/Datafyd i was given this dataset for mary's pharmacy sales from 2014-2019, i was asked to anysis the dataset to determine and identify trends and petterns in the sales of pharmaceutica,drugs sold over time, i will also visualize the dataset on a dashboard to fimd out insights to anser the following statement of problems.
+While on my learning jourmey with https://github.com/Datafyd i was given this dataset for mary's pharmacy sales from 2014-2019, i was asked to anyalse the dataset to determine and identify trends and petterns in the sales of pharmaceutica drugs sold over time, i will also visualize the dataset on a dashboard to fimd out insights to anser the following statement of problems.
 # PROBLEM STATEMENT
 what is the Demographic of buyers?
 What drug category is least bought within the said period?
