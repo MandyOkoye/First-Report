@@ -5,8 +5,11 @@ This is the dataset before i cleanded and transformed it.
 [saleshourly.csv](https://github.com/MandyOkoye/First-Report/files/12165746/saleshourly.csv)
 # BUISNESS PROBLEMS
 What is the overall sales trend for the pharmacy?
+
 Which drugs have the highest sales revenue?
-Are there any seasonal sales patterns for specific drugs or ATC categories?                                                                       
+
+Are there any seasonal sales patterns for specific drugs or ATC categories? 
+
 What time of the day has the highest sales?
 # DATASET SOURCE
 i have downladed the CSV file sent to me and i have gone ahead to clean the dataset.
