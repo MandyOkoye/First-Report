@@ -99,7 +99,26 @@ i conected all my tables using the star schemer  in a one to many relationship.
 
 Appoprate charts were used eg donout chart, clusterd colum chart, bar chart, cards, slicers etc to represent the metrics and insights and aslo to give detailed information.
 
-![Uploading 1690397584599.jpg…]()
+![1690397584599](https://github.com/MandyOkoye/First-Report/assets/135643020/3a1b095a-aa3d-4dec-baae-971b415569a7)
+
+The report shows that Mary's pharmacy saw a lot of downtime especially in 2015, 2017 and 2019. sales rate was inconsistent across the seasons in the different years, the most sales are made in the afternoon.
+
+the top selling drug kept fluctuating across all parameters (season, month, year) but it is noticed that  M01AB, N0SC and M01AE drug category did the generated the least sales across parameters.
+
+2018 showed the highest sale recorded.
+
+The NO5B drug category generated the hihest sales probablky because of the price its sold at but the NO2BE category had the hihest quantiry sold.
+
+the NO drug category did well across all seasons but highest in autunm and spring,quantity sold for MO category seemed to increase in summer.
+Afternoon saw more sales across all category followed by morning.
+
+# RECOMENDATIONS
+
+Mary's pharmacy should therefore look into reducing stock on the the said NOSC and MO1AE and futher increase stock on N05B, NO2BE, R03 and R06.
+
+mangement should consider increaseing price on NO2BE as it shows hihg quantity sales but low revenue.
+
+drugs that showed seasonal pattern should be made readily avalable durring it's season.
 
 
 
