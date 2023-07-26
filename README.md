@@ -120,6 +120,8 @@ mangement should consider increaseing price on NO2BE as it shows hihg quantity s
 
 drugs that showed seasonal pattern should be made readily avalable durring it's season.
 
+# INTERACT WITH MY DASHBOARD HERE
 
+https://app.powerbi.com/view?r=eyJrIjoiOWQzZWYyMDUtNWY3ZC00YWE2LWFhMTYtZTNhZDgzMDZkMDBkIiwidCI6ImRhMWM0NzgzLTFhYjEtNDVhOS1iYmQ3LWVhNTkzZmQ0ZWE3ZiJ9
 
 
