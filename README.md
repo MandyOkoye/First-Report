@@ -4,13 +4,13 @@
 While on my learning jourmey with https://github.com/Datafyd i was given this dataset for mary's pharmacy sales from 2014-2019, i was asked to anyalse the dataset to determine and identify trends and petterns in the sales of pharmaceutica drugs sold over time, i will also visualize the dataset on a dashboard to fimd out insights to anser the following statement of problems
 
 # BUISNESS PROBLEMS
-What is the overall sales trend for the pharmacy?
+Mary is the owner of a small pharmacy located in a busy city center. She has been running the pharmacy for the past few years and has noticed that sales have stagnated. Despite the competitive pricing, Mary's Pharmacy has struggled to attract new customers.
 
-Which drugs have the highest sales revenue?
+To try and improve her business, Mary decided to contact Datafied Technologies to conduct a thorough analysis of her sales data using the transactional data collected over the past 6 years. She exports the data from her Point-of-Sale system, which includes information on the date and time of each sale, the name of the pharmaceutical drug sold, and the quantity of each drug sold.
 
-Are there any seasonal sales patterns for specific drugs or ATC categories? 
+You are the senior data analyst at Datafied Technologies. You are required to come up with business questions and generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time. You also need to visualize the data and create dashboards to uncover hidden insights and track the metrics you have defined for the business.
 
-What time of the day has the highest sales?
+Mary needs your help to uncover valuable insights about her business and take action to improve its performance. Mary intends to use this newfound knowledge to make informed decisions about her inventory and marketing strategies, ultimately leading to an increase in sales and the growth of her business
 
 # DATASET INFORMATION.
 i have downladed the CSV file sent to me and i have gone ahead to clean the dataset.
@@ -36,4 +36,18 @@ R06 - Antihistamines for systemic use
 
 [saleshourly.csv](https://github.com/MandyOkoye/First-Report/files/12165746/saleshourly.csv)   my dataset
 
+#PROJECT OBJECTIVE
+The objective is to generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time. by analyzing transactional sales data and then visualizeing the data and create dashboards to uncover hidden insights and track the metrics.
+
+#UNDERSTANDING THE BUISNESS OBJECTIVES AND USER REQUIREMENT.
+I dived in to understand the buisness specific requirement and objectives from the buisness problems, i was able to identify key areas to foccus on the buisness questions the buisnesss needs answer to.
+
+#BUISNESS QUESTIONS
+What is the overall sales trend for the pharmacy?
+
+Which drugs have the highest sales revenue?
+
+Are there any seasonal sales patterns for specific drugs or ATC categories? 
+
+What time of the day has the highest sales?
 
