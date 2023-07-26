@@ -73,3 +73,34 @@ highest quantity sold by drug category
 # PREPROCESSING THE DATA
 
 The data was clearned by removing duplicates, inconsistences and ensuring the data is in a suitable format for analysis.
+
+# DATASET BEFORE CLEANING
+
+![1690398218284](https://github.com/MandyOkoye/First-Report/assets/135643020/41077e02-5f2b-44d1-a393-4d74fefcd715)
+
+
+# DATASET AFTER CLEANING
+
+![1690397584611](https://github.com/MandyOkoye/First-Report/assets/135643020/190592cc-6040-4f40-bd1d-68a29bcfdc67)
+
+# DATA MODELING AND RELATIONSHIns
+
+i identified the the necessary dimentions to break down the table, they are 
+
+drug table
+
+time table
+
+date table
+
+i conected all my tables using the star schemer  in a one to many relationship.
+
+![1690397584605](https://github.com/MandyOkoye/First-Report/assets/135643020/60a89362-de64-4ff6-a3e9-9f64e235757a)
+
+Appoprate charts were used eg donout chart, clusterd colum chart, bar chart, cards, slicers etc to represent the metrics and insights and aslo to give detailed information.
+
+![Uploading 1690397584599.jpg…]()
+
+
+
+
