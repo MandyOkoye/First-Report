@@ -38,15 +38,15 @@ R06 - Antihistamines for systemic use
 
 [saleshourly.csv](https://github.com/MandyOkoye/First-Report/files/12165746/saleshourly.csv)   my dataset
 
-#PROJECT OBJECTIVE
+# PROJECT OBJECTIVE
 
 The objective is to generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time. by analyzing transactional sales data and then visualizeing the data and create dashboards to uncover hidden insights and track the metrics.
 
-#UNDERSTANDING THE BUISNESS OBJECTIVES AND USER REQUIREMENT.
+# UNDERSTANDING THE BUISNESS OBJECTIVES AND USER REQUIREMENT.
 
 I dived in to understand the buisness specific requirement and objectives from the buisness problems, i was able to identify key areas to foccus on the buisness questions the buisnesss needs answer to.
 
-#BUISNESS QUESTIONS
+# BUISNESS QUESTIONS
 
 Based on the discussions in Step 1, i have defined specific business questions that the dashboard should answer. Example questions include:
 
@@ -58,7 +58,7 @@ Are there any seasonal sales patterns for specific drugs or ATC categories?
 
 What time of the day has the highest sales?
 
-#KPI"s
+# KPI"s
 
 Total sales revenue
 
@@ -70,6 +70,6 @@ top selling drug by drug category and season
 
 highest quantity sold by drug category
 
-#PREPROCESSING THE DATA
+# PREPROCESSING THE DATA
 
 The data was clearned by removing duplicates, inconsistences and ensuring the data is in a suitable format for analysis.
