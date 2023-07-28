@@ -3,7 +3,7 @@
 
 While on my learning jourmey with https://github.com/Datafyd i was given this dataset for mary's pharmacy sales from 2014-2019, i was asked to anyalse the dataset to determine and identify trends and petterns in the sales of pharmaceutica drugs sold over time, i will also visualize the dataset on a dashboard to fimd out insights to anser the following statement of problems
 
-# BUISNESS PROBLEMS
+# BUSINESS PROBLEM
 
 Mary is the owner of a small pharmacy located in a busy city center. She has been running the pharmacy for the past few years and has noticed that sales have stagnated. Despite the competitive pricing, Mary's Pharmacy has struggled to attract new customers.
 
@@ -42,19 +42,19 @@ R06 - Antihistamines for systemic use
 
 The objective is to generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time. by analyzing transactional sales data and then visualizeing the data and create dashboards to uncover hidden insights and track the metrics.
 
-# UNDERSTANDING THE BUISNESS OBJECTIVES AND USER REQUIREMENT.
+# UNDERSTANDING THE BUSINESS OBJECTIVES AND USER REQUIREMENT.
 
-I dived in to understand the buisness specific requirement and objectives from the buisness problems, i was able to identify key areas to foccus on the buisness questions the buisnesss needs answer to.
+I dived in to understand the business specific requirement and objectives from the business problems, i was able to identify key areas to foccus on the business questions the business need answers to.
 
-# BUISNESS QUESTIONS
+# BUSINESS QUESTIONS
 
-Based on the discussions in Step 1, i have defined specific business questions that the dashboard should answer. Example questions include:
+Based on the discussions in Step 1, i have defined specific business problems the dashboard should answer. Example questions include:
 
 What is the overall sales trend for the pharmacy?
 
 Which drugs have the highest sales revenue?
 
-Are there any seasonal sales patterns for specific drugs or ATC categories? 
+Are there any seasonal sales pattern for specific drugs or ATC category? 
 
 What time of the day has the highest sales?
 
@@ -62,13 +62,13 @@ What time of the day has the highest sales?
 
 Total sales revenue
 
-total quantity sold
+Total quantity sold
 
-sales growth rate
+Sales growth rate
 
-top selling drug by drug category and season
+Top selling drug by drug category and season
 
-highest quantity sold by drug category
+Highest quantity sold by drug category
 
 # PREPROCESSING THE DATA
 
@@ -85,15 +85,15 @@ The data was clearned by removing duplicates, inconsistences and ensuring the da
 
 # DATA MODELING AND RELATIONSHIns
 
-i identified the the necessary dimentions to break down the table, they are 
+I identified the necessary dimentions to break down the table, which are 
 
-drug table
+Drug table
 
-time table
+Time table
 
-date table
+Date table
 
-i conected all my tables using the star schemer  in a one to many relationship.
+i conected all my tables using the star schema in a one to many relationship.
 
 ![1690397584605](https://github.com/MandyOkoye/First-Report/assets/135643020/60a89362-de64-4ff6-a3e9-9f64e235757a)
 
@@ -103,22 +103,22 @@ Appoprate charts were used eg donout chart, clusterd colum chart, bar chart, car
 
 The report shows that Mary's pharmacy saw a lot of downtime especially in 2015, 2017 and 2019. sales rate was inconsistent across the seasons in the different years, the most sales are made in the afternoon.
 
-the top selling drug kept fluctuating across all parameters (season, month, year) but it is noticed that  M01AB, N0SC and M01AE drug category did the generated the least sales across parameters.
+The top selling drug kept fluctuating across all parameters (season, month, year) but it is noticed that  M01AB, N0SC and M01AE drug category did the generated the least sales across parameters.
 
 2018 showed the highest sale recorded.
 
-The NO5B drug category generated the hihest sales probablky because of the price its sold at but the NO2BE category had the hihest quantiry sold.
+The NO5B drug category generated the hihest sales probablky because of the price it is sold at but the NO2BE category had the highest quantity sold.
 
-the NO drug category did well across all seasons but highest in autunm and spring,quantity sold for MO category seemed to increase in summer.
+The 'NO' drug category did well across all seasons but highest in autunm and spring,quantity sold for MO category seemed to increase in summer.
 Afternoon saw more sales across all category followed by morning.
 
 # RECOMENDATIONS
 
 Mary's pharmacy should therefore look into reducing stock on the the said NOSC and MO1AE and futher increase stock on N05B, NO2BE, R03 and R06.
 
-mangement should consider increaseing price on NO2BE as it shows hihg quantity sales but low revenue.
+Mangement should consider increaseing price on NO2BE as it shows high quantity sales but low revenue.
 
-drugs that showed seasonal pattern should be made readily avalable durring it's season.
+Drugs that showed seasonal pattern should be made readily avalable durring it's season.
 
 # INTERACT WITH MY DASHBOARD HERE
 
