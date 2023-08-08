@@ -83,7 +83,7 @@ The data was clearned by removing duplicates, inconsistences and ensuring the da
 
 ![1690397584611](https://github.com/MandyOkoye/First-Report/assets/135643020/190592cc-6040-4f40-bd1d-68a29bcfdc67)
 
-# DATA MODELING AND RELATIONSHIns
+# DATA MODELING AND RELATIONSHIPS
 
 I identified the necessary dimentions to break down the table, which are 
 
