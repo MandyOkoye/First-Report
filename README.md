@@ -107,7 +107,7 @@ The top selling drug kept fluctuating across all parameters (season, month, year
 
 2018 showed the highest sale recorded.
 
-The NO5B drug category generated the hihest sales probablky because of the price it is sold at but the NO2BE category had the highest quantity sold.
+The NO5B drug category generated the highest sales probablky because of the price it is sold at but the NO2BE category had the highest quantity sold.
 
 The 'NO' drug category did well across all seasons but highest in autunm and spring,quantity sold for MO category seemed to increase in summer.
 Afternoon saw more sales across all category followed by morning.
