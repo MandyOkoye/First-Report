@@ -81,7 +81,8 @@ The data was clearned by removing duplicates, inconsistences and ensuring the da
 
 # DATASET AFTER CLEANING
 
-![1690397584611](https://github.com/MandyOkoye/First-Report/assets/135643020/190592cc-6040-4f40-bd1d-68a29bcfdc67)
+![powerbi after cleaning](https://github.com/MandyOkoye/First-Report/assets/135643020/687300dd-bb20-476d-bac6-b81653619aca)
+
 
 # DATA MODELING AND RELATIONSHIPS
 
@@ -95,11 +96,13 @@ Date table
 
 i conected all my tables using the star schema in a one to many relationship.
 
-![1690397584605](https://github.com/MandyOkoye/First-Report/assets/135643020/60a89362-de64-4ff6-a3e9-9f64e235757a)
+![powerbi relationships](https://github.com/MandyOkoye/First-Report/assets/135643020/6dfc22d3-ebf8-417e-bcd0-f23f7a494594)
+
 
 Appoprate charts were used eg donout chart, clusterd colum chart, bar chart, cards, slicers etc to represent the metrics and insights and aslo to give detailed information.
 
-![1690397584599](https://github.com/MandyOkoye/First-Report/assets/135643020/3a1b095a-aa3d-4dec-baae-971b415569a7)
+![powerbi dashboard](https://github.com/MandyOkoye/First-Report/assets/135643020/b0e945ae-b2ad-4f55-ad3e-65d395e7006a)
+
 
 The report shows that Mary's pharmacy saw a lot of downtime especially in 2015, 2017 and 2019. sales rate was inconsistent across the seasons in the different years, the most sales are made in the afternoon.
 
