@@ -44,7 +44,7 @@ The objective is to generate metrics that could be tracked to identify trends an
 
 # UNDERSTANDING THE BUSINESS OBJECTIVES AND USER REQUIREMENT.
 
-I dived in to understand the business specific requirement and objectives from the business problems, i was able to identify key areas to foccus on the business questions the business need answers to.
+I dived in to understand the business specific requirement and objectives from the business problems, i was able to identify key areas to focus on the business questions the business need answers to.
 
 # BUSINESS QUESTIONS
 
